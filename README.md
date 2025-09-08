@@ -11,7 +11,7 @@ This repo is a reflection of my **problem-solving skills**, structured coding ap
 
 ## 📂 Repo Layout
 
-- **LeetCode/**
+- **DailyDoseOfLeetcode/**
   - **Problem-Title/**
     - `solution.py` → Accepted Python solution
     - `README.md` → Problem statement + explanation
