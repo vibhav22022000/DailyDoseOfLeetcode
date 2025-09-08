@@ -50,3 +50,11 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 ---
 
 ✨ *Code. Debug. Optimize. Repeat.* ✨
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+<!---LeetCode Topics End-->
