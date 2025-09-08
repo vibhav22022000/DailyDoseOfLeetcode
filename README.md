@@ -10,11 +10,12 @@ A personal collection of my **LeetCode solutions** — a place where I practice,
 
 ## 📂 Repo Layout
 
-LeetCode/
-|-- Problem-Title/
-|   |-- solution.py       # Accepted solution
-|   |-- README.md         # Problem statement + explanation
-|-- global README.md
+- **LeetCode/**
+  - **Problem-Title/**
+    - `solution.py` → Accepted solution
+    - `README.md` → Problem statement + explanation
+  - `global README.md`
+
 
 *Each problem gets its own folder. Most solutions are in Python, sometimes other languages. Each folder contains notes and explanations where needed.*
 
