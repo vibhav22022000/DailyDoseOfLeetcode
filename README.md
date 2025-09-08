@@ -1,4 +1,4 @@
-# 🐍 My LeetCode Playground
+# 🐍 Daily Dose of Leetcode
 
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/) 
 [![Problems Solved](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?logo=leetcode)](https://leetcode.com/)  
