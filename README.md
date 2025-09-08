@@ -44,8 +44,8 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 ---
 
 ## 🚀 Connect With Me
-- GitHub: [YourUsername](https://github.com/vibhav22022000)  
-- LinkedIn: [YourLinkedIn](www.linkedin.com/in/vibhav-rane)  
+- GitHub: [vibhav22022000](https://github.com/vibhav22022000)  
+- LinkedIn: [vibhav-rane](www.linkedin.com/in/vibhav-rane)  
 
 ---
 
