@@ -11,10 +11,11 @@ A personal collection of my **LeetCode solutions** — a place where I practice,
 ## 📂 Repo Layout
 
 LeetCode/
-├── Problem-Title/
-│ ├── solution.py # Accepted solution
-│ ├── README.md # Problem statement + explanation
-└── global README.md
+|-- Problem-Title/
+|   |-- solution.py       # Accepted solution
+|   |-- README.md         # Problem statement + explanation
+|-- global README.md
+
 
 
 ---
