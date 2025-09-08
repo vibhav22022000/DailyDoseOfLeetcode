@@ -1,4 +1,4 @@
-# DailyDoseOfLeetcode
+# 🧩 My LeetCode Playground
 
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/) 
 [![Problems Solved](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?logo=leetcode)](https://leetcode.com/)  
@@ -16,11 +16,11 @@ LeetCode/
 |   |-- README.md         # Problem statement + explanation
 |-- global README.md
 
-
+*Each problem gets its own folder. Most solutions are in Python, sometimes other languages. Each folder contains notes and explanations where needed.*
 
 ---
 
-## 🎯 Why This Repo
+## 🎯 Why This Repo Exists
 - Track my coding journey  
 - Strengthen **DSA & problem-solving** skills  
 - Keep a reference for interviews  
@@ -28,7 +28,7 @@ LeetCode/
 
 ---
 
-## 🛠️ Topics
+## 🛠️ Topics Covered
 - Arrays & Strings  
 - Linked Lists & Trees  
 - Graphs & Search  
@@ -42,6 +42,10 @@ Updated as I solve more problems. Some are neat, some experimental — but all p
 
 ---
 
-## 📬 Connect
-- GitHub: [YourUsername](https://github.com/vibhav22022000)  
-- LinkedIn: [YourLinkedIn](www.linkedin.com/in/vibhav-rane)  
+## 🚀 Connect With Me
+- GitHub: [YourUsername](https://github.com/YourUsername)  
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourProfile)  
+
+---
+
+✨ *Code. Debug. Repeat. Celebrate with chai.* ✨
