@@ -1,10 +1,11 @@
-# 🧩 My LeetCode Playground
+# 🐍 My LeetCode Playground
 
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/) 
 [![Problems Solved](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?logo=leetcode)](https://leetcode.com/)  
-[![Made With Love](https://img.shields.io/badge/Made%20with-Love-red)](#)
+[![Made With Dedication](https://img.shields.io/badge/Made%20with-Dedication-green)](#)
 
-A personal collection of my **LeetCode solutions** — a place where I practice, learn, and sometimes struggle my way through algorithms and data structures.
+A personal collection of **LeetCode solutions**, written entirely in Python 🐍.  
+This repo is a reflection of my **problem-solving skills**, structured coding approach, and consistency — all aimed at mastering **Data Structures & Algorithms** and preparing for coding interviews.
 
 ---
 
@@ -12,41 +13,40 @@ A personal collection of my **LeetCode solutions** — a place where I practice,
 
 - **LeetCode/**
   - **Problem-Title/**
-    - `solution.py` → Accepted solution
+    - `solution.py` → Accepted Python solution
     - `README.md` → Problem statement + explanation
   - `global README.md`
 
-
-*Each problem gets its own folder. Most solutions are in Python, sometimes other languages. Each folder contains notes and explanations where needed.*
+*Each problem is neatly organized with a dedicated folder for code and notes. Everything is implemented in Python for consistency and readability.*
 
 ---
 
 ## 🎯 Why This Repo Exists
-- Track my coding journey  
-- Strengthen **DSA & problem-solving** skills  
-- Keep a reference for interviews  
-- And because solving problems can actually be fun (on good days 😉)  
+- Track my problem-solving journey  
+- Strengthen **DSA & algorithmic thinking**  
+- Maintain a clean, recruiter-friendly reference of solved problems  
+- Showcase consistent Python skills and coding style  
 
 ---
 
 ## 🛠️ Topics Covered
 - Arrays & Strings  
 - Linked Lists & Trees  
-- Graphs & Search  
+- Graphs & Search Algorithms  
 - Dynamic Programming  
 - Greedy & Backtracking  
 
 ---
 
 ## 📈 Progress
-Updated as I solve more problems. Some are neat, some experimental — but all part of learning.  
+Updated regularly as I solve new problems. This repo is a growing archive of my coding practice, ready to share with recruiters or interviewers.
 
 ---
 
 ## 🚀 Connect With Me
-- GitHub: [YourUsername](https://github.com/YourUsername)  
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourProfile)  
+- GitHub: [YourUsername](https://github.com/vibhav22022000)  
+- LinkedIn: [YourLinkedIn](www.linkedin.com/in/vibhav-rane)  
 
 ---
 
-✨ *Code. Debug. Repeat. Celebrate with chai.* ✨
+✨ *Code. Debug. Optimize. Repeat.* ✨
