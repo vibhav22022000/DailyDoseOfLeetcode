@@ -57,4 +57,12 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
