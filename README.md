@@ -86,6 +86,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0005-longest-palindromic-substring](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +103,8 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
