@@ -70,6 +70,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0027-remove-element](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0005-longest-palindromic-substring](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +122,8 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
