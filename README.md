@@ -58,6 +58,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0013-roman-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | ------- |
 | [0001-two-sum](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
