@@ -64,6 +64,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,4 +98,8 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
