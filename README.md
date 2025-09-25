@@ -75,10 +75,12 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
