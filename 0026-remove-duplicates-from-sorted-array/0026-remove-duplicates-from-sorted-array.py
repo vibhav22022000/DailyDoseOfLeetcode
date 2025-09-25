@@ -1,17 +1,18 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
+        # if not nums:
+        #     return 0
         
-        unique = []
+        # unique = []
 
-        for num in nums:
-            if not unique or unique[-1] != num:
-                unique.append(num)
+        # for num in nums:
+        #     if not unique or unique[-1] != num:
+        #         unique.append(num)
         
-        for i in range(len(unique)):
-            nums[i] = unique[i]
+        # for i in range(len(unique)):
+        #     nums[i] = unique[i]
+        
+        # return len(unique)
 
-        return len(unique)
-        
-        
+        nums[:] = sorted(set(nums))
+        return len((nums))
