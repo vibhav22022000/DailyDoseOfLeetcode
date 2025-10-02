@@ -5,8 +5,8 @@
 [![Problems Solved](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?logo=leetcode)](https://leetcode.com/)  
 [![Made With Dedication](https://img.shields.io/badge/Made%20with-Dedication-green)](#)
 
-A personal collection of **LeetCode solutions**, written entirely in Python 🐍.  
-This repo is a reflection of my **problem-solving skills**, structured coding approach, and consistency — all aimed at mastering **Data Structures & Algorithms** and preparing for coding interviews.
+A personal collection of **LeetCode solutions**, written in **Python** and **Dart**.  
+This repo reflects my **problem-solving skills**, structured coding approach, and consistency — all aimed at mastering **Data Structures & Algorithms** and preparing for coding interviews.
 
 ---
 
@@ -15,10 +15,11 @@ This repo is a reflection of my **problem-solving skills**, structured coding ap
 - **DailyDoseOfLeetcode/**
   - **Problem-Title/**
     - `solution.py` → Accepted Python solution
+    - `solution.dart` → Accepted Dart solution (when available)
     - `README.md` → Problem statement + explanation
   - `global README.md`
 
-*Each problem is neatly organized with a dedicated folder for code and notes. Everything is implemented in Python for consistency and readability.*
+*Each problem is organized with a dedicated folder for code and notes. Most problems have Python solutions, with Dart variants added progressively.*
 
 ---
 
