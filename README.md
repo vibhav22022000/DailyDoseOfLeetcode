@@ -1,6 +1,7 @@
 # 🐍 Daily Dose of Leetcode
 
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/) 
+[![Dart](https://img.shields.io/badge/Language-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 [![Problems Solved](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?logo=leetcode)](https://leetcode.com/)  
 [![Made With Dedication](https://img.shields.io/badge/Made%20with-Dedication-green)](#)
 
