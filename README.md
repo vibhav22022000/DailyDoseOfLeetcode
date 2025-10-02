@@ -74,6 +74,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0005-longest-palindromic-substring](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
 | ------- |
