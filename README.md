@@ -62,6 +62,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0009-palindrome-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0268-missing-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0217-contains-duplicate](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0169-majority-element](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -140,12 +143,14 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +172,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
