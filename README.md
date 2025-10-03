@@ -84,6 +84,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0219-contains-duplicate-ii](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Updated regularly as I solve new problems. This repo is a growing archive of my 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vibhav22022000/DailyDoseOfLeetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
